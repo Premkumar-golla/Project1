@@ -10,6 +10,12 @@ This is a web based application developed for a restaurant named PEARLY CARE.
 
 **Demo Video** -  
 
+**Azure Technologies Used** - 
+AI + Machine Learning
+Azure Cognitive Services
+Language Services 
+Custom Question Answer
+
 ## Features and Functionalities 
 
 - Interactive and responsive UI.
@@ -49,8 +55,7 @@ This is a web based application developed for a restaurant named PEARLY CARE.
 ![contact](https://github.com/Premkumar-golla/Project1/assets/118708263/daf71d85-ba2c-4c94-a211-2599e4a31950)
 
 ### Healthbot Page -
-![healthbot](https://github.com/Premkumar-golla/Project1/assets/118708263/d24399af-c7ab-4fe2-997f-61cecde01ace)
-
+![healthbot](https://github.com/Premkumar-golla/Project1/assets/118708263/07e928a5-af91-4802-a92a-2b642be711e5)
 
 
 ## Tech Stack 💻
