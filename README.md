@@ -5,7 +5,7 @@ This is a web based application developed for a restaurant named PEARLY CARE.
 ### This web based Dental application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://mango-cliff-097d9c900.3.azurestaticapps.net
+**Project Link** - https://mango-cliff-097d9c900.3.azurestaticapps.net/
 
 
 **Demo Video** -  
