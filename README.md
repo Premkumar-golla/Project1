@@ -11,7 +11,7 @@ This is a web based application developed for a restaurant named PEARLY CARE.
 **Demo Video** -  https://youtu.be/tox_D9UzFaU
 
 **Azure Technologies Used** - 
-Static web apps
+Static web apps, 
 AI + Machine Learning,
 Azure Cognitive Services,
 Language Services, Custom Question Answer.
