@@ -8,9 +8,10 @@ This is a web based application developed for a restaurant named PEARLY CARE.
 **Project Link** - https://mango-cliff-097d9c900.3.azurestaticapps.net/
 
 
-**Demo Video** -  
+**Demo Video** -  https://youtu.be/tox_D9UzFaU
 
 **Azure Technologies Used** - 
+Static web apps
 AI + Machine Learning,
 Azure Cognitive Services,
 Language Services, Custom Question Answer.
